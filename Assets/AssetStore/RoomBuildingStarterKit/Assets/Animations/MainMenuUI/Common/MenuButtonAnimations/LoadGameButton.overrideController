@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LoadGameButton
+  m_Controller: {fileID: 9100000, guid: 45e544143dea33e4287d82f2355152bb, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7441304051389175017, guid: 45e544143dea33e4287d82f2355152bb,
+      type: 2}
+    m_OverrideClip: {fileID: 7441304051389175017, guid: 45e544143dea33e4287d82f2355152bb,
+      type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e5ea5b8229ef0df45b418bb99ab07314, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e5ea5b8229ef0df45b418bb99ab07314, type: 2}
+  - m_OriginalClip: {fileID: 8579664791320443847, guid: 45e544143dea33e4287d82f2355152bb,
+      type: 2}
+    m_OverrideClip: {fileID: 8579664791320443847, guid: 45e544143dea33e4287d82f2355152bb,
+      type: 2}
+  - m_OriginalClip: {fileID: -6106096263623719321, guid: 45e544143dea33e4287d82f2355152bb,
+      type: 2}
+    m_OverrideClip: {fileID: -6106096263623719321, guid: 45e544143dea33e4287d82f2355152bb,
+      type: 2}
+  - m_OriginalClip: {fileID: 5127596202006559948, guid: 45e544143dea33e4287d82f2355152bb,
+      type: 2}
+    m_OverrideClip: {fileID: 0}
+  - m_OriginalClip: {fileID: -1625054521896668167, guid: 45e544143dea33e4287d82f2355152bb,
+      type: 2}
+    m_OverrideClip: {fileID: 0}

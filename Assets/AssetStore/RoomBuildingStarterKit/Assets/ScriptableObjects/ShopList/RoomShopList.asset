@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1045f035ed7d0d429007a6a9e906063, type: 3}
+  m_Name: RoomShopList
+  m_EditorClassIdentifier: 
+  ShopList:
+    Items:
+    - ShopItemUIPrefab: {fileID: 915352888783180437, guid: 77ca8c6d248f3f14ea7c8ff881e05d65,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 915352888783180437, guid: 56a9af6fc790f3347ad4acfb0096f727,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 9065697167913924571, guid: 64c829eee21df314bb474583018dc976,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 481165793929247204, guid: 2ac184c02c1d81b4d9c701e59ed7e5ba,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 4530908463489003824, guid: 6cc1b01fe11228c4c9a155534b6dd56c,
+        type: 3}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 737a369c4f6c7f54d953c0b8ee7e75cf, type: 3}
+  m_Name: WorkingRoomFurnitureShopList
+  m_EditorClassIdentifier: 
+  ShopList:
+    Items:
+    - ShopItemUIPrefab: {fileID: 9202838894097393700, guid: ec7efb3b344958d4a87accb1604bdaea,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 1146415185556704898, guid: b65684d8b9b0cd34fac1d1e541133b48,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 9202838894097393700, guid: 7853e5938220b124a9e428750de2329a,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 6520612015362259254, guid: c2ac4d5f34b715c44804c7f7005eb549,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 5583731663604833416, guid: f4db4b42919a8754e9e7c65f6670b39d,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 1611733752870476431, guid: 5d81cf2b95fd2c54e8a416c6cc9c1fec,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 4317892131565900074, guid: f4e89a0144f863141865a76b1c2d3cd8,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 6065446626816202782, guid: 94caa2477bae1ad46b7becf8c5d33590,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 204086396079211011, guid: 90312333e1ebf44469704cd32b1b62e5,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 2573419449382061188, guid: a2ad3ba60f8e33747a8fc630bf29935c,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 9213442179749519656, guid: 6e5fdbe8e36c282449f24c5afea6b230,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 7482617355325428244, guid: 8feca37e1185dc343b21a9bff9b93b1b,
+        type: 3}
+    - ShopItemUIPrefab: {fileID: 1844114675970390125, guid: 251d553379da84b488a17f706f9e1784,
+        type: 3}
+  RoomType: 0

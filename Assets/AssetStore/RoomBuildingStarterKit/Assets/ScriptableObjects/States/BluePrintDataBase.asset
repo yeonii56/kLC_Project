@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 910b0a5f16595dc46804efa3a56e09af, type: 3}
+  m_Name: BluePrintDataBase
+  m_EditorClassIdentifier: 
+  BluePrintAdditionFloorPrefab: {fileID: 1467215786371557011, guid: f91a54a3a960c2249ac7aa4260e60276,
+    type: 3}
+  BluePrintAdditionWallPrefab: {fileID: 3971411866457605848, guid: 73b079239d1512b4a8eeba4d329625c2,
+    type: 3}
+  BluePrintDeletionFloorPrefab: {fileID: 7245303719574810785, guid: 387397f69ebec25418e6548d09792656,
+    type: 3}
+  BluePrintDeletionWallPrefab: {fileID: 5709531434268407116, guid: 3733c6992fac2b64aa225ffcc894bcc9,
+    type: 3}
+  BluePrintWindowWallPrefab: {fileID: 1292800062985388058, guid: a0004f8388e2db4409035113749ae239,
+    type: 3}
+  BluePrintDoorPrefab: {fileID: 4147334188259911760, guid: a0a2a9dba5acaf14e8640c3417838369,
+    type: 3}
+  BluePrintOfficeDoorPrefab: {fileID: 3314021072405073370, guid: 970207c95ab95a2429400e01dc232941,
+    type: 3}
+  BluePrintWindowPrefab: {fileID: 9069044617949328642, guid: 9b5549f3559be3d42b97f7faa36f169a,
+    type: 3}
+  BluePrintValidMaterial: {fileID: 2100000, guid: 6403b7858dd749544a3121ae1ce8578b,
+    type: 2}
+  BluePrintInvalidMaterial: {fileID: 2100000, guid: 4fb8c57a74e9ebd4a8768262fa5355ee,
+    type: 2}
+  putFurnitureButtonClicked: -1

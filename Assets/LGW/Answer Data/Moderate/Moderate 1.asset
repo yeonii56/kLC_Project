@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b5597bb320f4584a86f35eb8d8100d4, type: 3}
+  m_Name: Moderate 1
+  m_EditorClassIdentifier: 
+  problem: "\uC0DD\uC120\uC744 (\uC870\uB9AC\uB294/ \uC878\uC774\uB294) \uC18C\uB9AC\uAC00
+    \uC88B\uB2E4."
+  choice1: "\uC870\uB9AC\uB294"
+  choice2: "\uC878\uC774\uB294"
+  answer: "\uC870\uB9AC\uB294"
+  answerIndex: 0
+  commentary: "\u2018\uC870\uB9AC\uB2E4\u2019\uB294 \u2018\uC591\uB150\uC744 \uD55C
+    \uACE0\uAE30\uB098 \uC0DD\uC120, \uCC44\uC18C \uB530\uC704\uB97C \uAD6D\uBB3C\uC5D0
+    \uB123\uACE0 \uBC14\uC9DD \uB053\uC5EC\uC11C \uC591\uB150\uC774 \uBCA0\uC5B4\uB4E4\uAC8C
+    \uD558\uB294 \uAC83\u2019\uC744 \uB73B\uD558\uACE0 \u2018\uC878\uC774\uB2E4\u2019\uB294
+    \u2018\uCC0C\uAC1C, \uAD6D, \uD55C\uC57D \uB530\uC704\uC758 \uBB3C\uC774 \uC99D\uBC1C\uD558\uC5EC
+    \uBD84\uB7B5\uC774 \uC801\uC5B4\uC9C0\uB294 \uAC83\u2019\uC744 \uB9D0\uD569\uB2C8\uB2E4."

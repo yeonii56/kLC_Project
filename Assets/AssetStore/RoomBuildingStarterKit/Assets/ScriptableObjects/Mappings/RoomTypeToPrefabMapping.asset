@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df7ca1eab2d8f3d48be7b1c11a5da9ef, type: 3}
+  m_Name: RoomTypeToPrefabMapping
+  m_EditorClassIdentifier: 
+  RoomTypeEnumGameObjectDict:
+    Items:
+    - Key: 3
+      Value: {fileID: 1757803267825134235, guid: 4ffa92649e136084596185a88d9a4b2e,
+        type: 3}
+    - Key: 1
+      Value: {fileID: 4794313685534989468, guid: 69b5756fa55df9d42bf97556de54fb02,
+        type: 3}
+    - Key: 4
+      Value: {fileID: 5663675874611160499, guid: df18294fcd76d6645aaaa4c758a7cf04,
+        type: 3}
+    - Key: 2
+      Value: {fileID: 496569414874001528, guid: ae2aa1a778548e9439da871a2d1ffd08,
+        type: 3}
+    - Key: 0
+      Value: {fileID: 204474336040145287, guid: c325a1735b99e274b98e022eef012387,
+        type: 3}

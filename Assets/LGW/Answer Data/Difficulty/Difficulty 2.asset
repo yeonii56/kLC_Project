@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b5597bb320f4584a86f35eb8d8100d4, type: 3}
+  m_Name: Difficulty 2
+  m_EditorClassIdentifier: 
+  problem: "\uB0B4\uC77C \uD559\uAD50\uC5D0\uC11C (\uBD2C\uC694/ \uBD48\uC694)."
+  choice1: "\uBD2C\uC694"
+  choice2: "\uBD48\uC694"
+  answer: "\uBD2C\uC694"
+  answerIndex: 0
+  commentary: "\u2018\uBD48\uC5B4\uC694\u2019\uC758 \uC900\uB9D0\uC778 \u2018\uBD2C\uC694\u2019\uAC00
+    \uB9DE\uB294 \uD45C\uD604\uC774\uB2E4."

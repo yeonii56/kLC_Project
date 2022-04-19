@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb999380c96bbab4e84297942fb0e319, type: 3}
+  m_Name: BuildRealRoomCheckList
+  m_EditorClassIdentifier: 
+  checkItems:
+    Items:
+    - IsEnable: 1
+      IsFatal: 1
+      AddToUICheckList: 1
+      Item: {fileID: 11400000, guid: 835f373ed955ba841a8653be9d727998, type: 2}
+    - IsEnable: 1
+      IsFatal: 1
+      AddToUICheckList: 1
+      Item: {fileID: 11400000, guid: 195279e10394bc44394773cd078bd5bb, type: 2}
+    - IsEnable: 1
+      IsFatal: 1
+      AddToUICheckList: 1
+      Item: {fileID: 11400000, guid: 09fd3feb0901e0d43b9c84f2b3ca8861, type: 2}
+    - IsEnable: 1
+      IsFatal: 1
+      AddToUICheckList: 1
+      Item: {fileID: 11400000, guid: 2ee97dd5a9938094a8ee953b7aa14bd9, type: 2}
+    - IsEnable: 1
+      IsFatal: 1
+      AddToUICheckList: 1
+      Item: {fileID: 11400000, guid: 9de597adff90db846b56738eaa66711d, type: 2}
+    - IsEnable: 1
+      IsFatal: 1
+      AddToUICheckList: 1
+      Item: {fileID: 11400000, guid: bdf20edf896eba34f8fdc98c183b3667, type: 2}
+    - IsEnable: 1
+      IsFatal: 1
+      AddToUICheckList: 1
+      Item: {fileID: 11400000, guid: 003c4168c76ae494dac95d5c5725aa85, type: 2}
+    - IsEnable: 1
+      IsFatal: 1
+      AddToUICheckList: 1
+      Item: {fileID: 11400000, guid: 791e069cf4ec51b459b458e0385c9fe4, type: 2}
+    - IsEnable: 1
+      IsFatal: 1
+      AddToUICheckList: 1
+      Item: {fileID: 11400000, guid: 7a30d6a7b05ed4d429c82e550993adf4, type: 2}
+  PendingValidateFloorOffset: {x: 0, y: 0, z: 0}
+  PendingValidateFloorDirection: 0
