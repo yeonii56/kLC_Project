@@ -16,7 +16,8 @@
 <br></br>
 
 ## 👉 플레이 영상(유튜브)
-  https://www.youtube.com/watch?v=P6mS5m1rYgc
+   **기능 위주로 녹화했습니다 😄**  
+  https://www.youtube.com/watch?v=P6mS5m1rYgc  
 <br></br>
 
 ## 👉 포트폴리오
